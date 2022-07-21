@@ -1,0 +1,8 @@
+.Head {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+}
+.left-section {
+background-color: pink;
+}
